@@ -23,7 +23,7 @@
 - De dominio específico (DSL)
 - De scripting
 
-### Unidad 4: Lenguajes según su forma de asignarles significado
+### Unidad 4: Lenguajes según su forma de asignarles significado (2 clases)
 - Herramientas de asignación de significado
 
 ## Evaluación
